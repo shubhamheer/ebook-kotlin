@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">501476648295-e62vvihvm5h36vvsu26bg2gmfetvutpv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">501476648295</string>
+    <string name="google_api_key" translatable="false">AIzaSyBkRGwoV5ylQlCAskcHez3OzDADe5f4nwU</string>
+    <string name="google_app_id" translatable="false">1:501476648295:android:f295d9bf6debd8c1ea3bc2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBkRGwoV5ylQlCAskcHez3OzDADe5f4nwU</string>
+    <string name="google_storage_bucket" translatable="false">all-uni-papers-v4.appspot.com</string>
+    <string name="project_id" translatable="false">all-uni-papers-v4</string>
+</resources>

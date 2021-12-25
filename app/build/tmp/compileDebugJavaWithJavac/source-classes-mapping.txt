@@ -1,0 +1,30 @@
+com/example/allunipapers/databinding/ActivityPdfEditBinding.java
+ com.example.allunipapers.databinding.ActivityPdfEditBinding
+com/example/allunipapers/databinding/ActivityCategoryAddBinding.java
+ com.example.allunipapers.databinding.ActivityCategoryAddBinding
+com/example/allunipapers/BuildConfig.java
+ com.example.allunipapers.BuildConfig
+com/example/allunipapers/databinding/ActivityRegisterBinding.java
+ com.example.allunipapers.databinding.ActivityRegisterBinding
+com/example/allunipapers/databinding/ActivityMainBinding.java
+ com.example.allunipapers.databinding.ActivityMainBinding
+com/example/allunipapers/databinding/RowPdfAdminBinding.java
+ com.example.allunipapers.databinding.RowPdfAdminBinding
+com/example/allunipapers/databinding/RowCategoryBinding.java
+ com.example.allunipapers.databinding.RowCategoryBinding
+com/example/allunipapers/databinding/ActivityLoginBinding.java
+ com.example.allunipapers.databinding.ActivityLoginBinding
+com/example/allunipapers/databinding/ActivityDashboardUserBinding.java
+ com.example.allunipapers.databinding.ActivityDashboardUserBinding
+com/example/allunipapers/databinding/ActivityDashboardAdminBinding.java
+ com.example.allunipapers.databinding.ActivityDashboardAdminBinding
+com/example/allunipapers/databinding/RowPdfUserBinding.java
+ com.example.allunipapers.databinding.RowPdfUserBinding
+com/example/allunipapers/databinding/ActivityPdfListAdminBinding.java
+ com.example.allunipapers.databinding.ActivityPdfListAdminBinding
+com/example/allunipapers/databinding/ActivityPdfDetailBinding.java
+ com.example.allunipapers.databinding.ActivityPdfDetailBinding
+com/example/allunipapers/databinding/ActivityPdfAddBinding.java
+ com.example.allunipapers.databinding.ActivityPdfAddBinding
+com/example/allunipapers/databinding/ActivitySplashBinding.java
+ com.example.allunipapers.databinding.ActivitySplashBinding

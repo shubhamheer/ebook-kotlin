@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category_add.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_category_add.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdf_list_admin.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_pdf_list_admin.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdf_detail.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_pdf_detail.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_pdf_user.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\row_pdf_user.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_pdf_admin.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\row_pdf_admin.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_category.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\row_category.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdf_edit.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_pdf_edit.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard_admin.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_dashboard_admin.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard_user.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_dashboard_user.xml"
+    },
+    {
+        "merged": "H:\\allunipapers2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdf_add.xml",
+        "source": "H:\\allunipapers2\\app\\src\\main\\res\\layout\\activity_pdf_add.xml"
+    }
+]
