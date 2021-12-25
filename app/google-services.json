@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501476648295",
+    "project_id": "all-uni-papers-v4",
+    "storage_bucket": "all-uni-papers-v4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501476648295:android:f295d9bf6debd8c1ea3bc2",
+        "android_client_info": {
+          "package_name": "com.example.allunipapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501476648295-e62vvihvm5h36vvsu26bg2gmfetvutpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkRGwoV5ylQlCAskcHez3OzDADe5f4nwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501476648295-e62vvihvm5h36vvsu26bg2gmfetvutpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
